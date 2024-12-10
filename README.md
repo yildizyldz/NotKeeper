@@ -25,8 +25,6 @@ NotKeeper, basit bir not alma uygulamasıdır. HTML, CSS ve JavaScript kullanara
 - Her notun yanında bulunan "Sil" butonuna tıklayarak o notu silebilirsiniz.
 - üzenle" butonuna tıklayarak mevcut bir notu düzenleyebilirsiniz.
 
-- 
+
 - "D![EkranKayd2024-12-10174130-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/ff256c26-1120-4565-a4ac-c96ecddbe95f)
 
-
-- 
